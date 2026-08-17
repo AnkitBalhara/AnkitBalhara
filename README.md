@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Ankit%20Balhara&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20@%20Crefio%20Pvt%20Ltd&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Ankit%20Balhara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Crefio%20Pvt%20Ltd&descSize=20&descAlignY=58" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitbalharadeveloper)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitbalhara012@gmail.com)
@@ -28,9 +28,6 @@ Software Engineer at **Crefio Pvt Ltd**, India, focused on JavaScript and backen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitBalhara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBalhara&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBalhara&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
