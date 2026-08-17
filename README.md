@@ -9,7 +9,7 @@
 
 ### About Me
 
-Software Engineer based in India, focused on JavaScript and backend development.
+Software Engineer focused on building scalable web and mobile applications with React, TypeScript, Node.js, and MongoDB.
 
 ### Tech Stack
 
